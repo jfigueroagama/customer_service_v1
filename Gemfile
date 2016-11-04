@@ -11,6 +11,7 @@ gem 'uglifier',     '3.0.0'
 gem 'coffee-rails', '4.2.1'
 gem 'jquery-rails', '4.1.1'
 gem 'jbuilder',     '2.4.1'
+gem 'bower-rails',  '0.11.0'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
